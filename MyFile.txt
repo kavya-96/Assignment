@@ -1,14 +1,28 @@
 Class demo{
 
 	void add(){}
+
 	void mul(){} //added in local branch 
 	void sub(){} //added in remote
 	//to revert a commit
 
+
+	void mul(){} //added in local branch 
+	void sub(){} //added in remote
+
+
+
 	void mul(){} //added in local branch
 	void sub(){} //added in remote
+
 
 	// second revert
 	//third revert
 
+
 }
+
+	void mul(){} //added in local branch
+}
+
+dnhygfnmjuh
